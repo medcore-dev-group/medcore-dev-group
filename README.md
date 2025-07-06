@@ -1,16 +1,14 @@
-## Hi there 👋
+# Medcore Dev Group
 
-<!--
-**medcore-dev-group/medcore-dev-group** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 Building the backbone of modern medtech software — open, modular, and developer-friendly.  
+From PACS adapters to custom viewers and RIS interfaces — we create clean building blocks for scalable healthcare platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔓 Open Projects
+- `ris-ui-template` – base frontend for radiology interfaces  
+- `dicom-viewer-wrapper` – OHIF extension for clinical needs  
+- `pacs-connector-lite` – simple vendor-agnostic PACS metadata fetcher  
+- `mwl-faker` – a sandbox MWL SCU/SCP server  
+
+🌐 Explore our documentation → [`open-docs`](https://github.com/medcore-dev-group/open-docs)
